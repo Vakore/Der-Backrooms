@@ -1,6 +1,6 @@
 # Der-Backrooms
 Funny fnaf clone I made in a week lol 
-Just extract the zip file to a folder with a name of your choice.
+Just extract the zip file to a folder with a name of your choice. After that, open "derBackrooms.html" with a web browser of your choice).
 If the game is running at abdnomral speeds open gameSpeed.txt
 If your mouse is teleporting randomly, click "anti mouse teleport" to turn it on(some bug with certain versions of chrome)
 
